@@ -1,0 +1,13 @@
+.h2{
+    font-size: 100px;
+    height: 500px;
+    color: cyan;
+}
+.h2:hover{
+    color: yellow;
+}
+body{
+    background: linear-gradient(lightblue, lightgreen, lightcoral);
+    height: 200%;
+    width: 90%;
+}
